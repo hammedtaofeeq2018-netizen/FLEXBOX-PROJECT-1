@@ -32,11 +32,11 @@ body{
     justify-content: space-between;
     align-items: center;
     height: 100%;
-    padding: 25px;
-    
-     
+    margin-right:20px;
 }
-
+#nav .container .logo{
+    margin-left:20px;
+}
 
 #nav ul{
     display: flex;
@@ -105,4 +105,5 @@ body{
     flex-direction: column;
     font-weight: 500;
     padding: 10px;
+
 }
